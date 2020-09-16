@@ -2,7 +2,7 @@
 
 **Teah Serani** 
  - teahserani@gwu.edu
- - teahserani
+ - This was a class assingment for Introduction to Software Engineering. 
  
 ### YOU NEED TO CHANGE THE FILE PATH IN PPSim FOR IT TO WORK.
 
@@ -38,7 +38,7 @@ Is a child class of Animal.
 ```move()```- creates a new random number to change direction 10% of the time
 
 ```Create()```- makes Prey a circle with a random color
-## Extra Credit
+## Additional Information
 For extra credit I added music to the background. YOU NEED TO CHANGE THE FILE PATH IN PPSim FOR IT TO WORK.
 
 In addition when the user pressed the spacebar new prey appear. Both of these make the game more entertaining for the user.
